@@ -1,0 +1,9 @@
+For the following 3 methods
+
+    java.util.ArrayList.subList()
+    java.util.ArrayList.iterator()
+    and for any one additional method chosen from java.util.ArrayList class:
+
+Develop a sufficient amount of unit tests using JUnit, TestNG or any other testing framework of choice (or no framework)
+
+Suggest two different metrics that would define how well the selected methods are tested.
